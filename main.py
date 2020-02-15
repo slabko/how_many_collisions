@@ -1,5 +1,4 @@
 from dataclasses import dataclass
-import math
 import sympy as sp
 
 # define the formulas before we start
